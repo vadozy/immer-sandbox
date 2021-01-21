@@ -10,7 +10,7 @@
   "author": "Vadim Storozhuk",
   "license": "ISC",
   "dependencies": {
-    "immer": "^5.0.0"
+    "immer": "^8.0.1"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
